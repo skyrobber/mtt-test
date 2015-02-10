@@ -13,4 +13,5 @@ git add .
 git commit -m "Auto commit on `date`"
 
 # Push to Github
-#git push origin master
+# Account defined in ~/.netrc with 644 permission - this will auto update without prompting credentials
+git push origin master
