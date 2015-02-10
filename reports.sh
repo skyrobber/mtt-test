@@ -10,8 +10,7 @@ rm -rf /var/www/html/mtt-test/index-orig.html
 loc="/var/www/html/mtt-test"
 cd $loc
 git add .
-git commit -m "Auto Update on `date`"
+git commit -m "Auto commit on `date`"
 
-# Push the changes to github
-git push origin master
-
+# Github update
+#git push origin master
