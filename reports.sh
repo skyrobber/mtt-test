@@ -12,5 +12,5 @@ cd $loc
 git add .
 git commit -m "Auto commit on `date`"
 
-# Github update
+# Push to Github
 #git push origin master
